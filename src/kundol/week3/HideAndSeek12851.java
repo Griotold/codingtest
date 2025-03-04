@@ -8,7 +8,7 @@ import java.util.Deque;
 import java.util.StringTokenizer;
 
 /**
- * 3-G: 숨박꼭질2 - 백준 12851
+ * 3-G: 숨박꼭질 2 - 백준 12851
  * https://www.acmicpc.net/problem/12851
  * BFS
  * */
