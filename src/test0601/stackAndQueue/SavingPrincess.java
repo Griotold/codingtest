@@ -1,4 +1,4 @@
-package test0601.stack;
+package test0601.stackAndQueue;
 
 import java.util.*;
 
