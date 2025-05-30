@@ -1,4 +1,4 @@
-package test0601.sorting;
+package test0601.sortingAndSearching;
 
 import java.util.*;
 
