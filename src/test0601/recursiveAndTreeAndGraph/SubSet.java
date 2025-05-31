@@ -22,7 +22,7 @@ public class SubSet {
     }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
+        n = sc.nextInt();
         ch = new int[n + 1];
         dfs(1);
     }
